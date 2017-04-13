@@ -1,4 +1,4 @@
-# Git and GitHub
+# Udacity: Git and GitHub
 
 This repo contains some of the code that is used during the lessons of this awesome course.
 
